@@ -1,0 +1,4 @@
+this code is from a project i did in uity engine, implementing a genetic algirithm for survival of the fittist using user ineraction.
+the user click on a bunch of different color ants.
+the once survived more will breed and produce the next generation
+this keeps going until all the memebers of the genertation end up with same genes of color.

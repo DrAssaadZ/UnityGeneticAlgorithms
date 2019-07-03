@@ -1,0 +1,8 @@
+code from project of genetic algorithm
+population manager generates a group of assets on a platform then the assts start moving just after their creating
+some assets will stay on the platform
+others will fall from it
+we keep the genes for the ones who stayed alive the most (survived)
+we notice that these assets adapted to 2 stategies of survival
+1 runing toward the farthest end of the platform
+2 crouching and waiting for the time to end
